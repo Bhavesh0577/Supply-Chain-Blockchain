@@ -133,7 +133,7 @@ function Supply() {
     }
     return (
         <div>
-            <h6><b>Supply Chain Flow:</b></h6>
+            <h3><b>Supply Chain Flow:</b></h3>
             <p>Medicine Order -&gt; Raw Material Supplier -&gt; Manufacturer -&gt; Distributor -&gt; Retailer -&gt; Consumer</p>
             <table className="table table-bordered table-striped table-hover shadow">
                 <thead className='thead-dark'>
